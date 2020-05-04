@@ -1,0 +1,60 @@
+Title: Privacy Policy
+
+----
+
+Text:
+
+# Chính sách bảo mật
+Ứng dụng YUP (“YUP”) là một ứng dụng di động cung cấp dịch vụ sàn thương mại điện tử trong lĩnh vực cung ứng sản phẩm, nguyên phụ liệu ngành F&B, được điều hành bởi CÔNG TY CỔ PHẦN GIẢI PHÁP MUA HÀNG ƯU VIỆT TPS (“Công ty”). Ứng dụng giúp kết nối giữa các nhà cung cấp nguyên phụ liệu, nhà cung cấp dịch vụ giao hàng và những bên cần sử dụng dịch vụ như Nhà hàng vừa và nhỏ, Quán cafe, Chủ hộ kinh doanh (“Khách hàng”).
+
+## I. Mục đích và phạm vi thu thập
+- Việc thu thập dữ liệu chủ yếu trên ứng dụng YUP & website của công ty chúng tôi bao gồm: họ tên, email, điện thoại, địa chỉ khách hàng. Đây là các thông tin mà công ty chúng tôi cần khách hàng cung cấp bắt buộc khi gửi thông tin nhờ tư vấn hay muốn mua sản phẩm trên YUP nhằm đảm bảo quyền lợi cho cho người tiêu dùng.
+- Khách hàng sẽ tự chịu trách nhiệm về bảo mật và lưu giữ mọi hoạt động sử dụng dịch vụ dưới thông tin mà mình cung cấp và hộp thư điện tử của mình. Ngoài ra, khách hàng có trách nhiệm thông báo kịp thời cho YUP về những hành vi sử dụng trái phép, lạm dụng, vi phạm bảo mật, lưu giữ tên đăng ký và mật khẩu của bên thứ ba để có biện pháp giải quyết phù hợp.
+
+##
+## II. Phạm vi sử dụng thông tin
+Công ty sử dụng thông tin khách hàng cung cấp để:
+- Liên hệ xác nhận đơn hàng và giao hàng cho khách hàng khi nhận được yêu cầu từ khách hàng.
+- Cung cấp thông tin về sản phẩm đến khách hàng nếu có yêu cầu từ khách hàng.
+- Gửi email tiếp thị, khuyến mại về hàng hóa do YUP cung cấp.
+- Gửi các thông báo về các hoạt động trao của công ty chúng tôi.
+- Liên lạc và giải quyết với khách hàng trong những trường hợp đặc biệt.
+- Không sử dụng thông tin cá nhân của người dùng ngoài mục đích xác nhận và liên hệ có liên quan đến giao dịch tại công ty chúng tôi;
+- Khi có yêu cầu của cơ quan tư pháp bao gồm: Viện kiểm sát, tòa án, cơ quan công an điều tra liên quan đến hành vi vi phạm pháp luật nào đó của khách hàng.
+
+##
+## III. Thời gian lưu trữ thông tin
+- Dữ liệu cá nhân của khách hàng sẽ được lưu trữ cho đến khi có yêu cầu hủy bỏ. Còn lại trong mọi trường hợp thông tin cá nhân khách hàng sẽ được bảo mật trên máy chủ của công ty chúng tôi.
+
+##
+## IV. Những người hoặc tổ chức có thể được tiếp cận với thông tin cá nhân
+Đối tượng được tiếp cận với thông tin cá nhân của khách hàng thuộc một trong những trường hợp sau:
+- Nhân viên của công ty.
+- Các đối tác có ký hợp động thực hiện 1 phần dịch vụ của Công Ty. Các đối tác này sẽ nhận được những thông tin theo thỏa thuận hợp đồng (có thể 1 phần hoặc toàn bộ thông tin tuy theo điều khoản hợp đồng) để tiến hành hỗ trợ người dùng sử dụng dịch vụ do Công ty cung cấp.
+
+##
+## V. Địa chỉ của đơn vị thu thập và quản lý thông tin cá nhân
+CÔNG TY CỔ PHẦN GIẢI PHÁP MUA HÀNG ƯU VIỆT TPS
+Địa chỉ: 34 Đường C, Cảnh Viên 2, Phú Mỹ Hưng , Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh.
+Điện thoại: 3 9527 9999
+Email: (link: mailto:support@yup.vn text: support@yup.vn)
+
+##
+## VI. Phương tiện và công cụ để người dùng tiếp cận và chỉnh sửa dữ liệu cá nhân của mình.
+- Khách hàng có quyền tự kiểm tra, cập nhật, điều chỉnh hoặc hủy bỏ thông tin cá nhân của mình bằng cách liên hệ với bộ phận CSKH YUP thực hiện việc này.
+- Khách hàng có quyền gửi khiếu nại về nội dung bảo mật thông tin đề nghị liên hệ CSKH YUP. Khi tiếp nhận những phản hồi này, công ty chúng tôi sẽ xác nhận lại thông tin, trường hợp đúng như phản ánh của khách hàng tùy theo mức độ, công ty chúng tôi sẽ có những biện pháp xử lý kịp thời.
+
+##
+## VII. Cơ chế tiếp nhận và giải quyết khiếu nại của người tiêu dùng
+- Mọi tranh chấp phát sinh giữa Công ty và Khách hàng sẽ được giải quyết trên cơ sở thương lượng. Trường hợp không đạt được thỏa thuận như mong muốn, một trong hai bên có quyền đưa vụ việc ra Tòa án nhân dân có thẩm quyền để giải quyết.
+- Khi không giải quyết được qua thương lượng, hòa giải như trên, bên bị vi phạm tập hợp các chứng cứ như email, tin nhắn... và liên lạc với Công ty. Công ty sẽ liên lạc lại với người khiếu nại để giải quyết.
+- Nếu vụ việc vượt quá thẩm quyền của mình, Công ty sẽ đề nghị chuyển vụ việc cho các cơ quan chức năng có thẩm quyền. Trong trường hợp này, Công ty vẫn phối hợp hỗ trợ để bảo vệ tốt nhất bên bị vi phạm.
+- Thông tin cá nhân của khách hàng trên công ty chúng tôi được công ty chúng tôi cam kết bảo mật tuyệt đối theo chính sách bảo vệ thông tin cá nhân của công ty chúng tôi. Việc thu thập và sử dụng thông tin của mỗi khách hàng chỉ được thực hiện khi có sự đồng ý của khách hàng đó trừ những trường hợp pháp luật có quy định khác.
+- Không sử dụng, không chuyển giao, cung cấp hay tiết lộ cho bên thứ 3 nào về thông tin cá nhân của khách hàng khi không có sự cho phép đồng ý từ khách hàng.
+- Trong trường hợp máy chủ lưu trữ thông tin bị hacker tấn công dẫn đến mất mát dữ liệu cá nhân khách hàng, công ty chúng tôi sẽ có trách nhiệm thông báo vụ việc cho cơ quan chức năng điều tra xử lý kịp thời và thông báo cho khách hàng được biết.
+- Bảo mật tuyệt đối mọi thông tin giao dịch trực tuyến của khách hàng bao gồm thông tin hóa đơn kế toán chứng từ số hóa trên công ty chúng tôi.
+- Ban quản lý công ty chúng tôi yêu cầu các cá nhân khi đăng ký/mua hàng phải cung cấp đầy đủ thông tin cá nhân có liên quan như: Họ và tên, địa chỉ liên lạc, email, điện thoại,... và chịu trách nhiệm về tính pháp lý của những thông tin trên. Ban quản lý công ty chúng tôi không chịu trách nhiệm cũng như không giải quyết mọi khiếu nại có liên quan đến quyền lợi của khách hàng đó nếu xét thấy tất cả thông tin cá nhân của khách hàng đó cung cấp khi đăng ký ban đầu là không chính xác.
+
+Công ty có toàn quyền sửa đổi Chính sách bảo mật này vào từng thời điểm. Công ty sẽ nỗ lực hợp lý để thông báo cho khách hàng về bất kỳ thay đổi quan trọng nào đối với Chính sách bảo mật này; tuy nhiên khách hàng đồng ý rằng khách hàng có trách nhiệm xem xét Chính sách bảo mật thường xuyên và việc Người dùng tiếp tục sử dụng Ứng dụng YUP sẽ được xem là sự chấp nhận của Người dùng đối với các sửa đổi.
+
+Tài liệu này cập nhật lần cuối vào 12/4/2020.

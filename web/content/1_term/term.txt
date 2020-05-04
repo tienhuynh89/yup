@@ -1,0 +1,97 @@
+Title: Term
+
+----
+
+Text:
+
+# Điều khoản sử dụng 
+
+Ứng dụng YUP (“YUP”) là một ứng dụng di động cung cấp dịch vụ sàn thương mại điện tử trong lĩnh vực cung ứng sản phẩm, nguyên phụ liệu ngành F&B, được điều hành bởi CÔNG TY CỔ PHẦN GIẢI PHÁP MUA HÀNG ƯU VIỆT TPS (“Công ty”). Ứng dụng giúp kết nối giữa các nhà cung cấp nguyên phụ liệu, nhà cung cấp dịch vụ giao hàng và những bên cần sử dụng dịch vụ như Nhà hàng vừa và nhỏ, Quán cafe, Chủ hộ kinh doanh (“Khách hàng”).
+##
+## I. Quy Định Chung
+### 1. Mô hình hoạt động
+- Tất cả sản phẩm tại YUP đều được lựa chọn kĩ lưỡng và đáp ứng đầy đủ các bộ tiêu chuẩn khắt khe về Vệ Sinh An Toàn Thực Phẩm & các quy định khác theo yêu cầu của pháp luật.
+- YUP nhận đơn hàng vào mọi thời gian trong ngày từ thứ 2 đến chủ nhật, thời điểm giao hàng sẽ được Khách hàng lựa chọn trên ứng dụng.
+
+###
+### 2. Quy định về đặt hàng 
+- Phương thức đặt hàng: YUP chỉ nhận thực hiện đơn hàng đặt trực tiếp trên ứng dụng điện thoại trên nền tảng iOS và Android. Tất cả những đơn hàng được đặt ngoài các kênh quy định sẽ bị từ chối. Trường hợp doanh nghiệp hoặc tổ chức có nhu cầu đặt hàng số lượng lớn vui lòng liên hệ trực tiếp để được hỗ trợ.
+- Giá trị đơn hàng tối thiểu: YUP chỉ nhận giao hàng với những đơn hàng có tổng giá trị từ 150.000đ trở lên (chưa tính phí dịch vụ, phí giao hàng và khuyến mãi).
+- Ví điện tử YUP: Phần tiền trong tài khoản Ví YUP của khách hàng có thể được sử dụng khi đặt hàng. Khách hàng có thể nạp thêm tiền vào Ví. Tiền trong Ví chỉ được sử dụng để mua hàng, không được chuyển đổi hoặc rút ra được dưới bất cứ hình thức nào theo quy định.
+- Hủy đơn hàng: khách hàng có thể liên lạc bộ phận Chăm sóc khách hàng (“CSKH”) trước thời gian giao hàng ít nhất 4 tiếng đồng hồ. Nếu xác nhận hủy sau thời gian trên, YUP xin phép từ chối việc hủy đơn hàng.
+- Trong trường hợp khách hàng không tuân thủ một (hoặc một vài) quy định, quy chế của YUP, YUP có quyền từ chối đơn đặt hàng cũng như đình chỉ hoặc khóa tài khoản vĩnh viễn mà không có nghĩa vụ phải thông báo đến khách hàng.
+
+###
+### 3. Thông tin bộ phận CSKH
+Trong quá trình đặt hàng, nếu quý khách gặp khó khăn hãy liên hệ với bộ phận CSKH của YUP qua các hình thức sau đây để nhận được sự hỗ trợ kịp thời nhất:
+- Cách 1:
+Nhận tư vấn qua số điện thoại: 3 9527 9999
+- Cách 2: 
+Nhận tư vấn qua kênh trực tuyến:
+ \- Inbox Facebook fanpage: https://facebook.com/yup.vn
+ \- Gửi thắc mắc/phản hồi đến email: (link: mailto:support@yup.vn text: support@yup.vn)
+
+### 4. Thay đổi thông tin khách hàng và đơn hàng
+- Để thay đổi các thông tin liên quan đến đơn hàng hoặc thông tin tài khoản, khách hàng vui lòng liên hệ cho bộ phận CSKH để được hỗ trợ.
+- Đối với các thay đổi liên quan đến đơn hàng khách hàng vui lòng liên hệ ít nhất 1 tiếng trước giờ giao hàng.
+
+##
+###
+## II. Hình thức thanh toán
+YUP hiện đang hỗ trợ những hình thức thanh toán sau:
+
+### 1. Thanh toán tiền mặt khi nhận hàng (COD)
+- Với hình thức này, đơn hàng của quý hàng sẽ được xác nhận ngay lập tức.
+- Khách hàng nhận hàng và thanh toán trực tiếp với nhân viên giao hàng.
+- Khách hàng vui lòng đối chiếu, kiểm tra thông tin sản phẩm khi nhận hàng.
+
+### 2. Thanh toán qua Chuyển khoản ngân hàng
+- Khách hàng chọn hình thức “Chuyển khoản ngân hàng” khi tiến hành đặt hàng bằng ứng dụng YUP.
+- Khách hàng chọn phương thức thanh toán này vui lòng thực hiện thanh toán và gửi ủy nhiệm chi (hóa đơn thanh toán) về email: support@yup.vn hoặc các kênh liên lạc của bộ phận CSKH để tiến hành xác nhận đơn hàng.
+- Trường hợp chưa nhận được ủy nhiệm chi, đơn hàng sẽ được tạm hoãn trên YUP.
+
+### 3. Thanh toán bằng Ví YUP
+- Mỗi tài khoản khách hàng tại YUP sẽ có số dư khả dụng để giao dịch. Khách hàng có thể sử dụng số dư này để thanh toán cho đơn hàng.
+- Với hình thức này, đơn hàng của khách hàng sẽ được xác nhận ngay lập tức.
+- Khách hàng sẽ có các lựa chọn để nạp tiền vào ví, thông tin chi tiết được hướng dẫn cụ thể trong ứng dụng.
+
+##
+###
+## III. Vận Chuyển & Giao Hàng
+### 1. Thời gian giao hàng
+YUP giao hàng trong khung thời gian khách hàng lựa chọn (trong vòng 1 giờ). Ví dụ: khách hàng được chọn 7h-9h sáng thì đơn hàng sẽ được giao từ 6h-10h sáng.
+
+### 2. Địa điểm giao hàng
+YUP hiện tại chỉ hỗ trợ các địa chỉ tại TP. Hồ Chí Minh.
+
+### 3. Giá cả
+- Giá cả sản phẩm được niêm yết trên ứng dụng YUP là giá bán cuối cùng đã bao gồm thuế Giá trị gia tăng (VAT). Giá cuối cùng của đơn hàng sẽ bao gồm thêm phí vận chuyển, chiết khấu ưu đãi.
+- YUP luôn cố gắng để bảo đảm rằng giá sản phẩm luôn cạnh tranh và là giá tốt nhất. Nếu có bất kỳ lỗi về giá nào được phát hiện, bộ phận CSKH của YUP sẽ liên hệ trực tiếp để thực hiện hoàn tiền vào Ví tài khoản của quý khách hàng trên YUP để có thể sử dụng vào đơn hàng tiếp theo.
+
+##
+###
+## IV. Chính Sách Đổi & Trả Hàng
+### 1. Chính sách đổi trả hàng hóa
+- Điều kiện đối với hàng hóa nằm trong chính sách đổi trả:
+\- Hàng hóa chưa bị mất niêm phong, còn nguyên vẹn nhãn mác, bao bì (trừ trường hợp lỗi trong quá trình vận chuyển và được xác nhận từ 2 phía khách hàng và nhân viên giao hàng).
+\- Đối với đơn hàng thực phẩm khô, thực phẩm đóng hộp, hóa mỹ phẩm: Khách hàng vui lòng liên hệ đổi trả sản phẩm trong vòng 24h kể từ lúc nhận được đơn hàng.
+\- Đối với sản phẩm tươi sống (thịt, trứng & hải sản, rau củ quả): Khách hàng vui lòng kiểm tra kỹ sản phẩm ngay lúc nhận hàng và trước khi YUP xác nhận hoàn tất đơn hàng.
+- Điều kiện đối với hàng hóa không hỗ trợ đổi trả:
+\- Sản phẩm nằm trong danh sách khuyến mãi sẽ không được đổi trả.
+\- Sản phẩm không còn nguyên bao bì, đã qua sử dụng, thay đổi ý định.
+
+### 2. Hướng dẫn đổi trả
+Nếu phát hiện sản phẩm có vấn đề và nằm trong chính sách được phép đổi trả khách hàng có thể:
+- Báo lại về bộ phận CSKH YUP kèm theo hình ảnh tình trạng sản phẩm.
+- Đơn hàng được xác nhận đủ điều kiện đổi trả sẽ được tiến hành trong vòng 1-2 ngày làm việc. 
+- Phương thức hoàn tiền: YUP sẽ hoàn tiền vào tài khoản ví điện tử của khách hàng tại YUP.
+
+Công ty có toàn quyền sửa đổi Điều khoản Sử dụng này vào từng thời điểm. Công ty sẽ nỗ lực hợp lý để thông báo cho khách hàng về bất kỳ thay đổi quan trọng nào đối với Điều khoản Sử dụng này; tuy nhiên khách hàng đồng ý rằng khách hàng có trách nhiệm xem xét Điều khoản Sử dụng thường xuyên và việc Khách hàng tiếp tục sử dụng Ứng dụng YUP sẽ được xem là sự chấp nhận của Người dùng đối với các sửa đổi.
+
+Địa chỉ liên hệ của Công ty:
+CÔNG TY CỔ PHẦN GIẢI PHÁP MUA HÀNG ƯU VIỆT TPS
+Địa chỉ: 34 Đường C, Cảnh Viên 2, Phú Mỹ Hưng , Phường Tân Phú, Quận 7, Thành phố Hồ Chí Minh.
+Điện thoại: 3 9527 9999
+Email: (link: mailto:support@yup.vn text: support@yup.vn)
+
+Tài liệu này cập nhật lần cuối vào 12/4/2020.
