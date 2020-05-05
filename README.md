@@ -7,6 +7,7 @@ PHP 7.2, 7.3 or 7.4
 https://getkirby.com/docs/guide/quickstart
 
 ## 2. Run website
+Cd to "web" folder and run:
 ```
 php -S localhost:8000 kirby/router.php
 ```
