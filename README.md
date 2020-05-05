@@ -12,7 +12,7 @@ php -S localhost:8000 kirby/router.php
 ```
 
 ## 3. Kirby's control panel
-Kirby's control panel (aka. the Panel) comes without any pre-installed accounts. Open http://yourdomain.com/panel (http://localhost:8000/panel) in the browser to start the installer and create the first account.
+Kirby's control panel (aka. the Panel) comes without any pre-installed accounts. Open http://yourdomain.com/panel (Ex: http://localhost:8000/panel) in the browser to start the installer and create the first account.
 
 ## 4. Term and Policy pages
 http://localhost:8000/term
